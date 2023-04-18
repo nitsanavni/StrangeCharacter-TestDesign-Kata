@@ -13,4 +13,11 @@
     - delegate the public calls
   - slower
 - extract method with same input and output variable
-  - 
+
+
+## Script
+
+- show the project
+  - tests are green
+- manual mutation
+- automatic mutation
