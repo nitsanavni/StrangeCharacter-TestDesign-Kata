@@ -21,3 +21,6 @@
   - tests are green
 - manual mutation
 - automatic mutation
+- extract Dto, and refactor tests
+- static - big bang
+- static - smaller steps
